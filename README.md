@@ -1,2 +1,3 @@
 # Customer-Transaction-Prediction
 In the Customer Transaction Prediction project, the goal was to develop a predictive model to anticipate whether a customer would engage in a particular transaction or not. Leveraging machine learning techniques, data analysis, and feature engineering, this project aimed to provide insights into customer behavior and improve decision-making for businesses. Finally I created a machine learning  model using classification algorithms which has 90% accuracy.
+PS : The data is more than 300MB which has 2lakh+ records and 200 features. So it is unable to upload here.
